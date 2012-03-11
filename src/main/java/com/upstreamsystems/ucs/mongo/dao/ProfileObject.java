@@ -115,10 +115,10 @@ public class ProfileObject {
 
 
 	Datastore getDs() throws UnknownHostException, MongoException {
-		Mongo mongo = new Mongo("mongodb://vmsrv13.internal.upstreamsystems.com", 27031);
+		Mongo mongo = new Mongo("localhost", 27031);
 		Morphia morphia = new Morphia();
 		morphia.map(ProfileObject.class);
-		Datastore ds = morphia.createDatastore(mongo, "TST04_UCS_RUNTIME");
+		Datastore ds = morphia.createDatastore(mongo, "test");
 		return ds;
 	}
 	

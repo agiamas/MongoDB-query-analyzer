@@ -1,0 +1,1 @@
+a tool to identify bottlenecks in MongoDB applications. Uses tailable cursor on system.profile collection and segregates operations by query type, outputting potentially problematic operations in separate log files for further analysis.

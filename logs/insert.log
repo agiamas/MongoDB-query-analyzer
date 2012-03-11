@@ -1,0 +1,76 @@
+DEBUG [main] (QueryAnalyzer.java:69) - insert
+DEBUG [main] (QueryAnalyzer.java:69) - insert
+DEBUG [main] (QueryAnalyzer.java:69) - insert
+DEBUG [main] (QueryAnalyzer.java:69) - insert
+DEBUG [main] (QueryAnalyzer.java:69) - insert
+DEBUG [main] (QueryAnalyzer.java:69) - insert
+DEBUG [main] (QueryAnalyzer.java:69) - insert
+DEBUG [main] (QueryAnalyzer.java:69) - insert
+DEBUG [main] (QueryAnalyzer.java:69) - insert
+DEBUG [main] (QueryAnalyzer.java:68) - insert
+DEBUG [main] (QueryAnalyzer.java:68) - insert
+DEBUG [main] (QueryAnalyzer.java:68) - insert
+DEBUG [main] (QueryAnalyzer.java:68) - insert
+DEBUG [main] (QueryAnalyzer.java:68) - insert
+DEBUG [main] (QueryAnalyzer.java:68) - insert
+DEBUG [main] (QueryAnalyzer.java:68) - insert
+DEBUG [main] (QueryAnalyzer.java:68) - insert
+DEBUG [main] (QueryAnalyzer.java:68) - insert
+DEBUG [main] (QueryAnalyzer.java:68) - insert
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:01:23.260Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:01:30.098Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:01:36.368Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:01:42.597Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:01:48.969Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:01:56.192Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:02:03.849Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 1 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:02:59.658Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:03:03.564Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:03:03.662Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:03:03.759Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:03:03.851Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:03:07.910Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 1 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:03:12.694Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:06:01.342Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.aggregateExecutions" , "keyUpdates" : 0 , "millis" : 0 , "client" : "10.9.8.199" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:07:00.412Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:07:07.392Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:07:13.769Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:07:20.189Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:07:26.616Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:07:34.014Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:07:41.957Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:08:21.393Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 1 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:08:25.339Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:08:25.455Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:08:25.570Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:08:25.670Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:08:25.793Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:08:31.195Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:12:01.271Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.aggregateExecutions" , "keyUpdates" : 0 , "millis" : 0 , "client" : "10.9.8.199" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:13:05.955Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:13:12.666Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:13:18.781Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:13:24.911Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:13:31.021Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:13:38.142Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:13:45.602Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:14:23.436Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:14:27.358Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:14:27.449Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:14:27.540Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:14:27.633Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:14:27.729Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:14:32.414Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:18:01.242Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.aggregateExecutions" , "keyUpdates" : 0 , "millis" : 0 , "client" : "10.9.8.199" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:18:58.457Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 1 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:19:05.486Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:19:12.003Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:19:18.988Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 1 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:19:25.210Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:19:32.395Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:19:39.945Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:20:29.546Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:20:33.380Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:20:33.479Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:20:33.572Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}
+DEBUG [main] (QueryAnalyzer.java:68) - { "ts" : { "$date" : "2012-03-11T18:20:33.668Z"} , "op" : "insert" , "ns" : "TST04_UCS_RUNTIME.system.indexes" , "keyUpdates" : 0 , "millis" : 0 , "client" : "0.0.0.0" , "user" : ""}

@@ -1,0 +1,308 @@
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:41) - Warning nscanned:21385 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:123
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:41) - Warning nscanned:21385 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:115
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:41) - Warning nscanned:21385 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:135
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:41) - Warning nscanned:21385 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:119
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:41) - Warning nscanned:21385 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:120
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:41) - Warning nscanned:21385 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:120
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:41) - Warning nscanned:21385 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:108
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:41) - Warning nscanned:21385 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:140
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:41) - Warning nscanned:21385 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:111
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:33) - test
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21385 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:119
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21385 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:120
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21385 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:120
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21385 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:108
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21385 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:140
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21385 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:111
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21385 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:120
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21385 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:108
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21385 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:140
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21385 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:111
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21385 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:123
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21386 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:114
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21386 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:102
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21386 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:134
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21386 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:106
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21386 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:129
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21387 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:115
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21387 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:106
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21387 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:133
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21387 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:103
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21387 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:119
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21388 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:108
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21388 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:107
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21388 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:131
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21388 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:106
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21385 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:140
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21385 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:111
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21385 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:123
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21386 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:114
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21386 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:102
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21386 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:134
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21386 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:106
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21386 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:129
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21387 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:115
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21387 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:106
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21387 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:133
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21387 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:103
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21387 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:119
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21388 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:108
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21388 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:107
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21388 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:131
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21388 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:106
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21388 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:122
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21389 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:105
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21389 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:115
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21389 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:138
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21389 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:110
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21389 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:120
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21390 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:115
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21390 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:110
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21390 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:133
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21390 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:109
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21390 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:117
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21391 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:112
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21391 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:100
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21391 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:130
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21391 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:103
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21391 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:122
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21392 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:131
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21392 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:107
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21392 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:142
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21392 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:110
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21392 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:116
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21393 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:110
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21393 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:106
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21393 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:138
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21393 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:110
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21393 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:117
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21394 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:129
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21394 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:108
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21394 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:137
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21394 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:109
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21394 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:122
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21395 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:126
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21395 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:108
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21395 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:119
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21395 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:124
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21395 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:108
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21395 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:137
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21395 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:130
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21395 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:140
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21395 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:118
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21395 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:121
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21396 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:107
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21396 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:100
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21396 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:140
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21396 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:112
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21396 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:122
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21397 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:114
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21397 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:137
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21397 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:142
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21397 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:112
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21397 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:121
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21398 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:114
+DEBUG [main] (QueryAnalyzer.java:40) - Warning nscanned:21398 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:118
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21391 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:122
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21392 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:131
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21392 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:107
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21392 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:142
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21392 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:110
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21392 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:142
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21392 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:110
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21392 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:116
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21393 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:110
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21393 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:106
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21393 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:138
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21393 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:110
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21393 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:117
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21394 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:129
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21394 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:108
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21394 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:137
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21394 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:109
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21394 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:122
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21395 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:126
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21395 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:108
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21395 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:119
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21395 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:124
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21395 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:108
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21395 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:137
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21395 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:130
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21395 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:140
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21395 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:118
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21395 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:121
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21396 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:107
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21396 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:100
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21396 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:140
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21396 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:112
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21396 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:122
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21397 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:114
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21397 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:137
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21397 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:142
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21397 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:112
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21397 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:121
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21398 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:114
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21398 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:118
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21398 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:138
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21398 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:107
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21398 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:121
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21399 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:108
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21399 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:113
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21399 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:137
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21399 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:104
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21399 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:124
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21400 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:124
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21400 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:113
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21400 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:139
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21400 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:107
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21400 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:123
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21401 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:114
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21401 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:104
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21401 nreturned:1 query:{ "query" : { "rollups_process_responsesMatcher.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:135
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21401 nreturned:1 query:{ "query" : { "rollups_process_responsesCalc" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:109
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21401 nreturned:1 query:{ "query" : { "rollups_process_subscribersCalc.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:119
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21402 nreturned:1 query:{ "query" : { "rollups_preProcess_outboundMessages.status" : "SUCCESS"} , "orderby" : { "executionDate" : -1}} millis:120
+DEBUG [main] (QueryAnalyzer.java:47) - Warning nscanned:21402 nreturned:1 query:{ "query" : { "rollups_process_dailyScheduleMessagesSent" : { "$exists" : true}} , "orderby" : { "executionDate" : -1}} millis:104
